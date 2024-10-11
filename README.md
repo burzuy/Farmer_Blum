@@ -1,12 +1,8 @@
-> [!NOTE]
-> - Контакты: [Telegram](https://t.me/mudachyo) 
-> - Канал: [Telegram Channel](https://t.me/shopalenka) 
-> - 🇪🇳 README in english available [here](README-EN.md)
 ---
 ## Как запустить  
 - Установить в свой браузер два расширения [Ignore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe) и [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
 - Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js)
-- Открыть [Бота Blum](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DBlumCryptoBot%26appname%3Dapp%26startapp%3Dref_jcGkWMkJaN) и запустить игру
+
 
 ## ![Результат](result.png)
 ---
